@@ -23,8 +23,7 @@ The application demonstrates task creation, viewing, updating, and deletion.
 Author:
 Dheeraj Reddy
 
-The following shows the successful execution of the To-Do List Application:
-#Sample output:
+Sample output:
 Added: Complete CODSOFT Task 1
 Added: Practice Python
 
