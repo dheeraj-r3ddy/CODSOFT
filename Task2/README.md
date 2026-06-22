@@ -19,3 +19,16 @@ python calculator.py
 
 Author:
 Dheeraj Reddy
+
+Sample output:
+Simple Calculator
+Enter first number: 125
+Enter second number: 375
+
+Choose Operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+Enter choice (1/2/3/4): 1
+Result = 500.0
