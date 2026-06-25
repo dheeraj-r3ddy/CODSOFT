@@ -24,3 +24,17 @@ Author:
 Dheeraj Reddy
 
 Sample Output:
+
+========== CONTACT BOOK ==========
+
+1. Add Contact
+
+2. View Contacts
+
+3. Search Contact
+
+4. Update Contact
+
+5. Delete Contact
+
+6. Exit
