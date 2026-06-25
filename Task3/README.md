@@ -21,3 +21,13 @@ python password_generator.py
 
 Author:
 Dheeraj Reddy
+
+Sample output:
+
+===== Password Generator =====
+
+Enter the desired password length: 18
+
+Generated Password:
+
+sG.:G<Q2Z|zECw0OR\
